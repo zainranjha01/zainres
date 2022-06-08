@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+
+
+#header{
+    padding: 5% 15%;
+    position: relative;
+    background-color: #fff;
+    background-color: #DDDDDD;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+
+#header a{
+    text-decoration: none;
+    outline: none;
+    color: #000;
+}
+
+.text-starting{
+    color: #0275d8;
+}
+
+.text-off{
+    color: #FF4848;
+    text-decoration: line-through;
+}
+
+.logo{
+    font-size: 30px;
+    font-family: 'Righteous', cursive;
+}
+
+.heading3{
+    font-size: 30px;
+}
+
+.heading1{
+    font-size: 60px;
+}
+
+.para{
+    font-size: 20px;
+}
+
+.welcome{
+    margin-top: 12%;
+    margin-bottom: 12%;
+    font-family: 'Quicksand', sans-serif;
+}
+
+#pricing{
+    padding: 5% 15%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    position: relative;
+    font-family: 'Quicksand', sans-serif;
+    overflow: hidden;
+}
+
+.card-body{
+    text-align: left;
+}
+
+#pricing i{
+    margin-right: 10px;
+    color: #50CB93;
+}
